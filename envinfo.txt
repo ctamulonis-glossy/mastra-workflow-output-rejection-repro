@@ -1,0 +1,14 @@
+
+  System:
+    OS: macOS 26.7.1
+    CPU: (12) arm64 Apple M4 Pro
+    Memory: 2.14 GB / 48.00 GB
+    Shell: 5.9 - /bin/zsh
+  Binaries:
+    Node: 24.21.0 - ~/.nvm/versions/node/v24.21.0/bin/node
+    npm: 11.19.0 - ~/.nvm/versions/node/v24.21.0/bin/npm
+    pnpm: 10.27.0 - ~/.local/share/mise/shims/pnpm
+  npmPackages:
+    @mastra/core: 1.85.0 => 1.85.0 
+    zod: 3.25.76 => 3.25.76 
+
